@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  iMoneyPet
+
+  Created by Никита on 14.01.2023.
+  
+*/
+
+
+"mainText" = "Нажмите, чтобы\nдобавить\nпервую трату";
+"spendText" = "Траты";
+"newSpend" = "Внесение расхода";
+"information" = "Информация о расходе";
+"name" = "Название траты";
+"amount" = "Стоимость";
+"category" = "Категория";
+"datentime" = "Дата и время";
+"adding" = "Добавление и выход";
+"add" = "Добавить";
+"today" = "Сегодня";
+"main" = "Главная";
+"expenses" = "Расходы";
+"expenseTracking" = "Учёт расходов";
+
+"all" = "Всё";
+"food" = "Еда";
+"devices" = "Девайсы";
+"entertainments" = "Развлечения";
+"car" = "Машина";
+"dwelling" = "Жильё";
+"animals" = "Животные";
+"health" = "Здоровье";
+"clothes" = "Одежда";
+"uncategorized" = "Не определено";
+
+"expenses" = "Расходы";
+"expenditure" = "Трата";
+"accumulation" = "Накопление";
+"spendType" = "Тип";
+"leaveWithoutReset" = "Выйти с сохранением";

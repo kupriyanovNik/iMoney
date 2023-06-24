@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  iMoneyPet
+
+  Created by Никита on 14.01.2023.
+  
+*/
+
+
+"mainText" = "tap to add\nfirst spend";
+"spendText" = "Spends";
+"newSpend" = "Making an expense";
+"information" = "Information about consumption";
+"name" = "Name of the expense";
+"amount" = "Amount";
+"category" = "Category";
+"datentime" = "Date and time";
+"adding" = "Addition and exit";
+"add" = "Add";
+"today" = "Today";
+"main" = "Main";
+"expenses" = "Expenses";
+"expenseTracking" = "Expense accounting";
+
+"all" = "All";
+"food" = "Food";
+"devices" = "Devices";
+"entertainments" = "Entertainments";
+"car" = "Car";
+"dwelling" = "Dwelling";
+"animals" = "Animals";
+"health" = "Health";
+"clothes" = "Clothes";
+"uncategorized" = "Uncategorized";
+
+"expenses" = "Expenses";
+"expenditure" = "Expenditure";
+"accumulation" = "Accumulation";
+"spendType" = "Type";
+"leaveWithoutReset" = "Leave Without Reset";
